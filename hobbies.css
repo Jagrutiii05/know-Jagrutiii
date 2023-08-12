@@ -1,0 +1,103 @@
+body{
+    background-color: #FFEADD;
+    margin: 0;
+}
+
+img{
+    /* margin: 15px; */
+    padding: 15px 0;
+}
+
+h1{
+    display: block;
+    text-align: center;
+    padding: 0 10%;
+    font-family: 'Bree Serif', serif;
+    color: rgb(130, 31, 24);
+    margin: 5% 35%;
+    position: relative;
+    right: 6rem;
+}
+
+h6{
+        padding-top: 2%;
+}
+
+.navbar{
+    background-color: #FCAEAE;
+    font-family: 'Bree Serif', serif;
+}
+
+.nav-item{
+    margin: 5px;
+}
+
+.hobbies{
+    height: 3rem;
+}
+
+.alert{
+    position: relative;
+    top: 70px;
+    margin: 0;
+}
+
+.mainContent{
+    position: relative;
+    top: 150px;
+}
+
+.img-left{
+    float: left;
+    padding-right: 5%;
+    padding-left: 5%;
+    height: 15rem;
+    margin: 30px;
+}
+
+.content-right{
+    color: #450707;
+    display: inline-block;
+    text-align: center;
+    width: 75%;
+    margin: 1rem 0;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
+
+.hobbyimage{
+    height: 220px;
+    width: 190px;
+    border-radius: 50%;
+    float: right;
+    margin:0 50px;
+}
+
+.hobbyimage2{
+    display: block;
+    height: 220px;
+    width: 190px;
+    border-radius: 50%;
+    float: right;
+    margin-right: 220px;
+    position: relative;
+    bottom: 30px;
+}
+
+.section{
+    margin: 0 20px 60px;
+}
+
+.alt{
+    background-color: #fee1e1;
+}
+
+.footer{
+    text-align: center;
+    background-color: #FCAEAE;
+    padding: 1%;
+}
+
+img:hover{
+    opacity:.8;
+}

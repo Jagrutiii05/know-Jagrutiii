@@ -1,0 +1,62 @@
+body{
+    background-color: #d3e6ec;
+    margin: 0;
+}
+
+h4{
+    margin-left: 18%;
+    padding-top: 4%;
+    text-align: left;
+    color: #8abbd5;
+}
+h6{
+    font-style: italic;
+}
+
+
+h3.quote{
+    font-size: 2.8rem;
+    color: #4280a2;
+    font-family: 'Bree Serif', serif;
+    padding: 2% 10% 0 10%;
+    line-height: 1.6;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    margin-left: 8%;
+    padding-right: 0;
+    text-align: left;
+}
+
+.navbar{
+    font-family: 'Bree Serif', serif;
+    background-color: #6eadcf;
+    padding: 1.5%;
+    
+}
+
+.text{
+    padding: 0 2%;
+    text-decoration: none;
+    color: #10405a;
+}
+
+.bi{
+    margin: 6% 0 0 6%;
+}
+
+.car{
+    background-color: #33769b;
+    text-align: center;
+    padding: 5% 15%;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.edu-image{
+    padding: 6% 0 0 16%;
+    height: 23rem;
+}
+
+.intro{
+    margin-bottom: 6%;
+}

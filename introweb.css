@@ -1,0 +1,180 @@
+body{
+    background-color: #f2faeb;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: 'Courgette', cursive;
+}
+
+hr{
+    width: 4%;
+    border: rgb(178, 184, 177);
+    border-style: dotted;
+    border-width: 6px;
+    border-top: 0;
+}
+
+img{
+    padding-top: 50px;
+    height: 200px;
+}
+
+p{
+    font-family: 'Bitter', serif;
+    text-align: center;
+    position: relative;
+    bottom: 1em;
+    /* padding-bottom: 0; */
+    margin-bottom: 5px;
+}
+
+h2, h3{
+    padding-top: 40px;
+    margin: 30px auto auto auto;
+    font-family: 'Patua One', cursive;
+    font-weight: normal;
+    text-align: center;
+    line-height: 2;
+}
+
+h4{
+    font-family: 'Patua One', cursive;
+    padding: 0;
+    margin: 0;
+    font-weight: lighter;
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+
+.c1{
+    /* display: inline-block; */
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    background-color: #829179;
+    margin: auto 50% auto 50%;
+    position: relative;
+    top: 6em;
+    right: 80px;
+}
+
+.top{
+    height: 100%;
+    margin: 0;
+    padding-bottom: 10px;
+    border: 0;
+    text-align: center;
+    background-color: #cfdec2;
+    align-items: center;
+}
+
+.photo{ 
+    border-width: 2px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 100px;
+    padding: 0;
+}
+
+.cloud1{
+    position: absolute;
+    left: 15%;
+    top: 1em;
+}
+
+.cloud2{
+    position: absolute;
+    right: 10%;
+    top: 16em;
+}
+
+img:active{
+    -webkit-filter: blur(1px); /* Safari 6.0 - 9.0 */
+    filter: blur(1px);
+}
+
+.photo:hover{
+    -webkit-filter: brightness(80%);
+    filter: brightness(80%);
+}
+
+.filter:hover{
+    -webkit-filter: brightness(80%);
+    filter: brightness(80%);
+}
+
+.name{
+    font-size: 350%;
+    text-decoration: underline;
+    position: relative;
+    bottom: 1.8em;
+}
+
+.para{
+    font-family: 'Patua One', cursive;
+    font-weight: normal;
+    font-size: 140%;
+    position: relative;
+    bottom: 5.8em;
+}
+
+.middle{
+    text-align: center;
+    padding: 50px;
+}
+
+.bottom{
+    margin: 0;
+    border: 0;
+    background-color: #7e8879;
+}
+
+.prof{
+    padding-top: 65px;
+    height: 40px;
+    position: relative;
+    left: 45%;
+    bottom: 3.5em;
+}
+
+.prof:hover{
+    cursor: pointer;
+    -webkit-filter: blur(1px); /* Safari 6.0 - 9.0 */
+    filter: blur(1px);
+}
+
+.edu-info{
+    margin: auto;
+    width: 50%;
+    line-height: 1.5;
+}
+
+.photos{
+    padding-top: 0;
+    border-radius: 50%;
+    padding: 1%;
+    border-color: #7e8879;
+}
+
+#pos{
+    position: relative;
+    top: 2rem;
+}
+
+.heading:hover{
+    cursor: pointer;
+    color: #7a8471;
+}
+
+.details{
+    text-decoration: underline;
+}
+
+.nextpage{
+    text-decoration: none;
+    color: black;
+}

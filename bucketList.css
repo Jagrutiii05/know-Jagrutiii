@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(203, 219, 219);
+    text-align: center;
+}
+
+img{
+    margin-top: 10%;
+    border-radius: 50%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(61, 38, 94);
+}
