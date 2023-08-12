@@ -25,7 +25,7 @@ A dedicated page highlights my hobbies with relevant images, designed meticulous
 
 <img width="400" alt="Screenshot 2023-08-12 143736" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/5cea3bc1-c6f9-49d7-9d89-d8a087dfff3c">   <img width="400" alt="Screenshot 2023-08-12 143745" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/3eb169c3-d52a-4a41-8780-3c0342b55c9b">
 
-<img width="400" alt="Screenshot 2023-08-12 143756" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/4bbce186-032f-4d59-ac20-69590c9c58d9">   <img width="250" alt="Screenshot 2023-08-12 144305" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/3f0744cf-a19d-4f1a-9bb1-3a05dabfe200">
+<img width="400" alt="Screenshot 2023-08-12 143756" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/4bbce186-032f-4d59-ac20-69590c9c58d9">          <img width="250" alt="Screenshot 2023-08-12 144305" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/3f0744cf-a19d-4f1a-9bb1-3a05dabfe200">
 
 ### Bucketlist
 
