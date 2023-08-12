@@ -8,23 +8,24 @@ I have designed and developed a website that features an introduction about myse
 
 The homepage showcases a set of icons, each linking to specific pages with unique content. These icons serve as intuitive gateways, facilitating easy navigation between different sections of the website. The design emphasizes user-friendliness and straightforwardness, ensuring effortless access to comprehensive information across various subjects.
 
-<img width="400" alt="Screenshot 2023-08-12 143645" src="https://github.com/Jagrutii05/Trial1/assets/97871635/5ecdffee-c78b-48e4-ab7a-0f7d2b2b9bad">  <img width="400" alt="Screenshot 2023-08-12 143636" src="https://github.com/Jagrutii05/Trial1/assets/97871635/ed05fdd9-8d5a-4bba-98ff-2ea50f1a1906">
+<img width="500" alt="Screenshot 2023-08-12 143645" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/a772c575-284d-45ae-ad3a-2c55a474f0cb">   <img width="500" alt="Screenshot 2023-08-12 143636" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/162db19a-6bfa-49fe-8a9a-1db8ad6f4035">
 
-<img width="400" alt="Screenshot 2023-08-12 143629" src="https://github.com/Jagrutii05/Trial1/assets/97871635/8fa92944-e33f-468e-b439-a156da7620d5">  <img width="400" alt="Screenshot 2023-08-12 143622" src="https://github.com/Jagrutii05/Trial1/assets/97871635/8da9d4e2-1a06-46bb-84db-95bf240be80f">
+<img width="500" alt="Screenshot 2023-08-12 143629" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/7f18f691-a33f-4330-8eed-e17139469142">   <img width="500" alt="Screenshot 2023-08-12 143622" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/2340bba6-7a22-498e-b750-b6b319cbb717">
 
 ### Education
 
 This page uses a carousel to showcase my educational journey from early schooling, offering smooth navigation through my academic history. The carousel adds sophistication to the exploration of institutions I've been part of, beginning with my schooling.
 
-<img width="500" alt="Screenshot 2023-08-12 143720" src="https://github.com/Jagrutii05/Trial1/assets/97871635/7aeff1fa-4d02-44b2-974a-51045f9760c3">
+<img width="500" alt="Screenshot 2023-08-12 143720" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/21813f9b-05c2-4815-96e9-e13b9b6003ce">
+
 
 ### Hobbies
 
 A dedicated page highlights my hobbies with relevant images, designed meticulously for responsive viewing across devices. The presentation optimizes the visual experience while ensuring content accessibility on any device.
 
-<img width="400" alt="Screenshot 2023-08-12 143736" src="https://github.com/Jagrutii05/Trial1/assets/97871635/ea00a5d4-d79a-41fc-b23e-e1b085ccf8b9">  <img width="400" alt="Screenshot 2023-08-12 143745" src="https://github.com/Jagrutii05/Trial1/assets/97871635/6b632627-fa53-42b7-b050-053a3fae87bf">
-<img width="400" alt="Screenshot 2023-08-12 143756" src="https://github.com/Jagrutii05/Trial1/assets/97871635/2d123d57-260a-404b-894c-ce4a6292850f">
-<img width="200" alt="Screenshot 2023-08-12 144305" src="https://github.com/Jagrutii05/Trial1/assets/97871635/c7582f54-d89c-4ad9-bb48-9616dd03bb39">
+<img width="500" alt="Screenshot 2023-08-12 143736" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/5cea3bc1-c6f9-49d7-9d89-d8a087dfff3c">   <img width="500" alt="Screenshot 2023-08-12 143745" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/3eb169c3-d52a-4a41-8780-3c0342b55c9b">
+
+<img width="500" alt="Screenshot 2023-08-12 143756" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/4bbce186-032f-4d59-ac20-69590c9c58d9">   <img width="250" alt="Screenshot 2023-08-12 144305" src="https://github.com/Jagrutiii05/know-Jagrutiii/assets/98681024/3f0744cf-a19d-4f1a-9bb1-3a05dabfe200">
 
 ### Bucketlist
 
